@@ -19,6 +19,10 @@ macOS-style liquid-glass desktop widgets for Windows. Widgets sit on the desktop
 
 Download `MacLookLike.exe` from [Releases](../../releases) and run it. Settings opens on first launch. Run it again at any time to reopen Settings.
 
+## License
+
+[MIT](LICENSE)
+
 ## Build
 
 Needs only the .NET Framework 4.8 compiler that ships with Windows:
